@@ -6,12 +6,20 @@ Embedded System Aplicactions examples:
 
 
 
-Examples:
-- Bike Computer:
+Example 1: Bike Computer
   Senses wheel rotation:
     Speed, Distance, Time
   Constraints:
     Size, Cost, Battery life
+    
+    
+ 
+Example 2: Car ECY (Engine Control Unit)
   
+  Constraints:
+    Real-time calculations
+    Reliability in harsh environments
+    Small device footprint
+    Networking
  
  
