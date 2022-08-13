@@ -1,0 +1,28 @@
+1. What are the features of an embedded system? 
+- An embedded system always contains a computer, but you might not even know the computer is there.
+- An embedded system interacts with its environment.
+
+
+2. An embedded system has certain characteristic features in its design.
+- A microcontroller is made up of CPU, data memory, program memory, and input/output (I/O).
+- A microcontroller has plenty of I/O, because it needs to interface with its external environment.
+- The CPU in the microcontroller fetches instructions from program memory, and then executes them.
+
+
+3. The Internet of Things (IoT) is a huge new application of embedded systems. It has been made possible in part because:
+- Microcontrollers are physically smaller but computationally more powerful.
+- Modern microcontrollers consume less electrical power.
+- Wireless connectivity is commonplace.
+
+
+4. The IoT continues to grow, but there are concerns about the challenges it may face:
+- There are security concerns with the IoT, as simple devices tend not to encrypt their data well, so are vulnerable to hacking.
+- There are so many devices on the IoT, that it is difficult to address them all uniquely.
+
+
+5. When designing an embedded system?
+- Portable embedded systems are highly dependent on size, weight and power consumption.
+
+
+6. Identify which of these statements is correct:
+- Cortex-M series processors, designed by Arm, are known to have low power consumption, and are comparatively easy to program.
