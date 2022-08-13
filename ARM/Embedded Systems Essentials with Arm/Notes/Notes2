@@ -1,0 +1,17 @@
+Embedded System Aplicactions examples:
+- Closed Loop Control Systems
+- Maintain a set point
+- Specialized functions within larger system
+- Step through stages a program.
+
+
+
+Examples:
+- Bike Computer:
+  Senses wheel rotation:
+    Speed, Distance, Time
+  Constraints:
+    Size, Cost, Battery life
+  
+ 
+ 
